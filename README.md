@@ -15,7 +15,9 @@
 - 체력 및 타격 시스템
 
 ## 게임 화면
-![tsi](https://github.com/Nwjwifh/TCombat/assets/111439484/46bcc1bc-63dd-4bda-aa67-7e77bb1dfd40)
+![t1](https://github.com/Nwjwifh/TSimulator/assets/111439484/7376dfaa-3022-49df-9545-dcd8f9fb125a)
+
+![t2](https://github.com/Nwjwifh/TSimulator/assets/111439484/19c239d4-8d0d-43b7-8203-1a57af15a63a)
 
 
 ## 개발 스택
